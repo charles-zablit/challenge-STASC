@@ -1,0 +1,10 @@
+proportion fraude faible 
+échantillonage pour diminuer la disproportion
+construire une perte qui ajoute une valeur plus forte à une fraude mal-classée
+preprocessing, nettoyage des données pour vecteurs de taille fixe
+
+construction data bourrin (on garde l'item le plus cher)
+moyenne item
+affiner si distribution item important ou non
+
+étude de corrélation
