@@ -7,4 +7,16 @@ construction data bourrin (on garde l'item le plus cher)
 moyenne item
 affiner si distribution item important ou non
 
-étude de corrélation
+étude de corrélation pour voir si les données sont liés au label de prédiction
+
+régression logistique (classif_standard p7)
+Nearest neighbors
+    definir une distance appropriée
+SVM
+Random Forest
+
+metrique : https://scikit-learn.org/stable/modules/generated/sklearn.metrics.average_precision_score.html
+
+ajout de features nb item, prix moyen du panier, au lieu standardscalar pour les données en une transfo non linéaire genre sigmoid
+nettoyage pour application code github, gestion des tokens potentiellement non pris en compte 
+plogement de données après le word to vec
